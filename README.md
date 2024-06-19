@@ -1,6 +1,9 @@
 # Ponderada CNN
 Utilizar redes neurais convolucionais para tarefas de visão computacional.
 
+## Comprovante de Funcionamento
+![predição](banco-imagens\screenshot-predicao.png)
+
 ## Instruções para Execução
 ### Clone o Repositório
 Coloque esse comando no terminal
